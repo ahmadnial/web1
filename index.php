@@ -154,7 +154,7 @@
                </div>
           </div>
      </section>
-
+     <?php include 'unggulan.php'; ?>
 
      <!-- TEAM -->
      <section id="team" data-stellar-background-ratio="1">
@@ -267,6 +267,82 @@
                     <div class="col-md-4 col-sm-6">
                          <div class="team-thumb wow fadeInUp" data-wow-delay="0.4s">
                               <img src="images/dokter/dr hant.png" class="img-responsive" alt="">
+
+                              <div class="team-info">
+                                   <h3>Jason Stewart</h3>
+                                   <p>Pregnancy</p>
+                                   <!-- <div class="team-contact-info">
+                                        <p><i class="fa fa-phone"></i> 010-070-0170</p>
+                                        <p><i class="fa fa-envelope-o"></i> <a href="#">pregnancy@company.com</a></p>
+                                   </div> -->
+                                   <ul class="social-icon">
+                                        <li><a href="#" class="fa fa-facebook-square"></a></li>
+                                        <li><a href="#" class="fa fa-envelope-o"></a></li>
+                                        <li><a href="#" class="fa fa-flickr"></a></li>
+                                   </ul>
+                              </div>
+                         </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                         <div class="team-thumb wow fadeInUp" data-wow-delay="0.4s">
+                              <img src="images/dokter/dr niaa.png" class="img-responsive" alt="">
+
+                              <div class="team-info">
+                                   <h3>Jason Stewart</h3>
+                                   <p>Pregnancy</p>
+                                   <!-- <div class="team-contact-info">
+                                        <p><i class="fa fa-phone"></i> 010-070-0170</p>
+                                        <p><i class="fa fa-envelope-o"></i> <a href="#">pregnancy@company.com</a></p>
+                                   </div> -->
+                                   <ul class="social-icon">
+                                        <li><a href="#" class="fa fa-facebook-square"></a></li>
+                                        <li><a href="#" class="fa fa-envelope-o"></a></li>
+                                        <li><a href="#" class="fa fa-flickr"></a></li>
+                                   </ul>
+                              </div>
+                         </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                         <div class="team-thumb wow fadeInUp" data-wow-delay="0.4s">
+                              <img src="images/dokter/dr sri.png" class="img-responsive" alt="">
+
+                              <div class="team-info">
+                                   <h3>Jason Stewart</h3>
+                                   <p>Pregnancy</p>
+                                   <!-- <div class="team-contact-info">
+                                        <p><i class="fa fa-phone"></i> 010-070-0170</p>
+                                        <p><i class="fa fa-envelope-o"></i> <a href="#">pregnancy@company.com</a></p>
+                                   </div> -->
+                                   <ul class="social-icon">
+                                        <li><a href="#" class="fa fa-facebook-square"></a></li>
+                                        <li><a href="#" class="fa fa-envelope-o"></a></li>
+                                        <li><a href="#" class="fa fa-flickr"></a></li>
+                                   </ul>
+                              </div>
+                         </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                         <div class="team-thumb wow fadeInUp" data-wow-delay="0.4s">
+                              <img src="images/dokter/dr wahyu.png" class="img-responsive" alt="">
+
+                              <div class="team-info">
+                                   <h3>Jason Stewart</h3>
+                                   <p>Pregnancy</p>
+                                   <!-- <div class="team-contact-info">
+                                        <p><i class="fa fa-phone"></i> 010-070-0170</p>
+                                        <p><i class="fa fa-envelope-o"></i> <a href="#">pregnancy@company.com</a></p>
+                                   </div> -->
+                                   <ul class="social-icon">
+                                        <li><a href="#" class="fa fa-facebook-square"></a></li>
+                                        <li><a href="#" class="fa fa-envelope-o"></a></li>
+                                        <li><a href="#" class="fa fa-flickr"></a></li>
+                                   </ul>
+                              </div>
+                         </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                         <div class="team-thumb wow fadeInUp" data-wow-delay="0.4s">
+                              <img src="images/dokter/dr wiratmo.png" class="img-responsive" alt="">
 
                               <div class="team-info">
                                    <h3>Jason Stewart</h3>
