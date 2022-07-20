@@ -1,0 +1,445 @@
+[20-Jul-2022 09:03:36 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 D:\nial_app\web1\index.php(249): require_once()
+#1 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:04:12 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 D:\nial_app\web1\index.php(249): require_once()
+#1 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:04:14 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 D:\nial_app\web1\index.php(249): require_once()
+#1 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:04:53 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 D:\nial_app\web1\index.php(249): require_once()
+#1 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:05:07 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 D:\nial_app\web1\index.php(249): require_once()
+#1 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:05:09 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 D:\nial_app\web1\index.php(249): require_once()
+#1 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:05:46 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\index.php:268
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\index.php on line 268
+[20-Jul-2022 09:05:55 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\index.php:268
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\index.php on line 268
+[20-Jul-2022 09:06:46 Asia/Jakarta] PHP Warning:  Undefined variable $result in D:\nial_app\web1\index.php on line 252
+[20-Jul-2022 09:06:46 Asia/Jakarta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\nial_app\web1\index.php on line 252
+[20-Jul-2022 09:07:32 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\index.php:268
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\index.php on line 268
+[20-Jul-2022 09:07:57 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\index.php:268
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\index.php on line 268
+[20-Jul-2022 09:08:52 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: sqlsrv_fetch_array(): Argument #1 ($stmt) must be of type resource, array given in D:\nial_app\web1\index.php:252
+Stack trace:
+#0 D:\nial_app\web1\index.php(252): sqlsrv_fetch_array(Array)
+#1 {main}
+  thrown in D:\nial_app\web1\index.php on line 252
+[20-Jul-2022 09:08:54 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: sqlsrv_fetch_array(): Argument #1 ($stmt) must be of type resource, array given in D:\nial_app\web1\index.php:252
+Stack trace:
+#0 D:\nial_app\web1\index.php(252): sqlsrv_fetch_array(Array)
+#1 {main}
+  thrown in D:\nial_app\web1\index.php on line 252
+[20-Jul-2022 09:09:35 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: sqlsrv_fetch_array(): Argument #1 ($stmt) must be of type resource, array given in D:\nial_app\web1\index.php:252
+Stack trace:
+#0 D:\nial_app\web1\index.php(252): sqlsrv_fetch_array(Array)
+#1 {main}
+  thrown in D:\nial_app\web1\index.php on line 252
+[20-Jul-2022 09:09:58 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: sqlsrv_fetch_array(): Argument #1 ($stmt) must be of type resource, array given in D:\nial_app\web1\index.php:252
+Stack trace:
+#0 D:\nial_app\web1\index.php(252): sqlsrv_fetch_array(Array)
+#1 {main}
+  thrown in D:\nial_app\web1\index.php on line 252
+[20-Jul-2022 09:09:58 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: sqlsrv_fetch_array(): Argument #1 ($stmt) must be of type resource, array given in D:\nial_app\web1\index.php:252
+Stack trace:
+#0 D:\nial_app\web1\index.php(252): sqlsrv_fetch_array(Array)
+#1 {main}
+  thrown in D:\nial_app\web1\index.php on line 252
+[20-Jul-2022 09:11:06 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\index.php:275
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\index.php on line 275
+[20-Jul-2022 09:11:08 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\index.php:275
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\index.php on line 275
+[20-Jul-2022 09:11:09 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\index.php:275
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\index.php on line 275
+[20-Jul-2022 09:12:56 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:14:05 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:14:06 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:14:07 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:14:07 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:14:08 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:14:08 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:14:09 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:14:09 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:14:09 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:14:10 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:14:10 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:14:10 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:14:11 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:14:11 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:23:10 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:25:00 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:26:49 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:30:07 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:30:30 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:30:32 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:30:32 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:30:32 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:30:32 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:30:33 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:30:33 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:30:33 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:30:37 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:15
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 15
+[20-Jul-2022 09:31:13 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:31:14 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:31:14 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 14
+[20-Jul-2022 09:32:38 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:33:26 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:33:28 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:33:28 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:33:28 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:33:29 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:33:29 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:33:29 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:33:29 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:33:29 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:33:30 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:33:31 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:34:31 Asia/Jakarta] PHP Warning:  Array to string conversion in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:34:38 Asia/Jakarta] PHP Warning:  Array to string conversion in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:34:47 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:35:40 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:36:55 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\index.php:275
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\index.php on line 275
+[20-Jul-2022 09:38:35 Asia/Jakarta] PHP Warning:  Undefined variable $value in D:\nial_app\web1\index.php on line 275
+[20-Jul-2022 09:38:35 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in D:\nial_app\web1\index.php on line 275
+[20-Jul-2022 09:38:35 Asia/Jakarta] PHP Warning:  Undefined variable $value in D:\nial_app\web1\index.php on line 276
+[20-Jul-2022 09:38:35 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in D:\nial_app\web1\index.php on line 276
+[20-Jul-2022 09:39:02 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\index.php:275
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\index.php on line 275
+[20-Jul-2022 09:43:51 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:44:22 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:44:23 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:44:24 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:44:24 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:44:24 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:44:24 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:44:24 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:47:00 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:47:01 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:48:25 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:48:29 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:49:48 Asia/Jakarta] PHP Warning:  Uninitialized string offset 36 in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:49:48 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:49:54 Asia/Jakarta] PHP Warning:  Uninitialized string offset 6 in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:49:54 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:50:18 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:51:08 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:51:12 Asia/Jakarta] PHP Warning:  Uninitialized string offset 32 in D:\nial_app\web1\makanAPI.php on line 18
+[20-Jul-2022 09:51:12 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:18
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 18
+[20-Jul-2022 09:52:10 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:52:21 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:16
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 09:57:37 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\index.php:275
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\index.php on line 275
+[20-Jul-2022 09:59:08 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\index.php:275
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\index.php on line 275
+[20-Jul-2022 09:59:09 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\index.php:275
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\index.php on line 275
+[20-Jul-2022 09:59:09 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\index.php:275
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\index.php on line 275
+[20-Jul-2022 09:59:09 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\index.php:275
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\index.php on line 275
+[20-Jul-2022 09:59:10 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\index.php:275
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\index.php on line 275
+[20-Jul-2022 10:02:11 Asia/Jakarta] PHP Warning:  Array to string conversion in D:\nial_app\web1\index.php on line 275
+[20-Jul-2022 10:02:11 Asia/Jakarta] PHP Warning:  Array to string conversion in D:\nial_app\web1\index.php on line 276
+[20-Jul-2022 10:02:11 Asia/Jakarta] PHP Warning:  Array to string conversion in D:\nial_app\web1\index.php on line 275
+[20-Jul-2022 10:02:11 Asia/Jakarta] PHP Warning:  Array to string conversion in D:\nial_app\web1\index.php on line 275
+[20-Jul-2022 10:02:11 Asia/Jakarta] PHP Warning:  Array to string conversion in D:\nial_app\web1\index.php on line 276
+[20-Jul-2022 10:02:11 Asia/Jakarta] PHP Warning:  Array to string conversion in D:\nial_app\web1\index.php on line 276
+[20-Jul-2022 10:02:41 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\index.php:275
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\index.php on line 275
+[20-Jul-2022 10:05:56 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:19
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 19
+[20-Jul-2022 10:09:26 Asia/Jakarta] PHP Warning:  Uninitialized string offset 100 in D:\nial_app\web1\makanAPI.php on line 19
+[20-Jul-2022 10:10:40 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: sqlsrv_fetch_array(): Argument #1 ($stmt) must be of type resource, array given in D:\nial_app\web1\makanAPI.php:15
+Stack trace:
+#0 D:\nial_app\web1\makanAPI.php(15): sqlsrv_fetch_array(Array)
+#1 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 15
+[20-Jul-2022 10:10:41 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: sqlsrv_fetch_array(): Argument #1 ($stmt) must be of type resource, array given in D:\nial_app\web1\makanAPI.php:15
+Stack trace:
+#0 D:\nial_app\web1\makanAPI.php(15): sqlsrv_fetch_array(Array)
+#1 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 15
+[20-Jul-2022 10:16:06 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in D:\nial_app\web1\makanAPI.php:19
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\web1\makanAPI.php on line 19
+[20-Jul-2022 10:18:55 Asia/Jakarta] PHP Warning:  Undefined array key "data" in D:\nial_app\web1\makanAPI.php on line 19
+[20-Jul-2022 10:19:37 Asia/Jakarta] PHP Warning:  Undefined array key "kode_dokter" in D:\nial_app\web1\makanAPI.php on line 19
+[20-Jul-2022 10:20:55 Asia/Jakarta] PHP Warning:  Array to string conversion in D:\nial_app\web1\index.php on line 275
+[20-Jul-2022 10:20:55 Asia/Jakarta] PHP Warning:  Array to string conversion in D:\nial_app\web1\index.php on line 276
+[20-Jul-2022 10:21:37 Asia/Jakarta] PHP Warning:  Array to string conversion in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 10:21:38 Asia/Jakarta] PHP Warning:  Array to string conversion in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 10:21:39 Asia/Jakarta] PHP Warning:  Array to string conversion in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 10:21:39 Asia/Jakarta] PHP Warning:  Array to string conversion in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 10:21:39 Asia/Jakarta] PHP Warning:  Array to string conversion in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 10:21:50 Asia/Jakarta] PHP Warning:  Array to string conversion in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 10:21:51 Asia/Jakarta] PHP Warning:  Array to string conversion in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 10:22:21 Asia/Jakarta] PHP Warning:  Undefined array key "jam_mulai" in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 10:22:34 Asia/Jakarta] PHP Warning:  Undefined array key "kode_dokter" in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 10:22:44 Asia/Jakarta] PHP Warning:  Undefined array key "kode_dokter" in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 10:22:44 Asia/Jakarta] PHP Warning:  Undefined array key "jam_mulai" in D:\nial_app\web1\makanAPI.php on line 17
+[20-Jul-2022 10:22:44 Asia/Jakarta] PHP Warning:  Undefined array key "jam_selesai" in D:\nial_app\web1\makanAPI.php on line 18
+[20-Jul-2022 10:22:56 Asia/Jakarta] PHP Warning:  Undefined array key "kode_dokter" in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 10:22:56 Asia/Jakarta] PHP Warning:  Undefined array key "jam_mulai" in D:\nial_app\web1\makanAPI.php on line 17
+[20-Jul-2022 10:22:56 Asia/Jakarta] PHP Warning:  Undefined array key "jam_selesai" in D:\nial_app\web1\makanAPI.php on line 18
+[20-Jul-2022 10:23:25 Asia/Jakarta] PHP Warning:  Undefined array key "data" in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 10:23:25 Asia/Jakarta] PHP Warning:  Undefined array key "jam_mulai" in D:\nial_app\web1\makanAPI.php on line 17
+[20-Jul-2022 10:23:25 Asia/Jakarta] PHP Warning:  Undefined array key "jam_selesai" in D:\nial_app\web1\makanAPI.php on line 18
+[20-Jul-2022 10:24:24 Asia/Jakarta] PHP Warning:  Undefined array key "kode_dokter" in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 10:24:24 Asia/Jakarta] PHP Warning:  Undefined array key "jam_mulai" in D:\nial_app\web1\makanAPI.php on line 17
+[20-Jul-2022 10:24:24 Asia/Jakarta] PHP Warning:  Undefined array key "jam_selesai" in D:\nial_app\web1\makanAPI.php on line 18
+[20-Jul-2022 10:24:26 Asia/Jakarta] PHP Warning:  Undefined array key "kode_dokter" in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 10:24:26 Asia/Jakarta] PHP Warning:  Undefined array key "jam_mulai" in D:\nial_app\web1\makanAPI.php on line 17
+[20-Jul-2022 10:24:26 Asia/Jakarta] PHP Warning:  Undefined array key "jam_selesai" in D:\nial_app\web1\makanAPI.php on line 18
+[20-Jul-2022 10:24:26 Asia/Jakarta] PHP Warning:  Undefined array key "kode_dokter" in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 10:24:26 Asia/Jakarta] PHP Warning:  Undefined array key "jam_mulai" in D:\nial_app\web1\makanAPI.php on line 17
+[20-Jul-2022 10:24:26 Asia/Jakarta] PHP Warning:  Undefined array key "jam_selesai" in D:\nial_app\web1\makanAPI.php on line 18
+[20-Jul-2022 10:24:27 Asia/Jakarta] PHP Warning:  Undefined array key "kode_dokter" in D:\nial_app\web1\makanAPI.php on line 16
+[20-Jul-2022 10:24:27 Asia/Jakarta] PHP Warning:  Undefined array key "jam_mulai" in D:\nial_app\web1\makanAPI.php on line 17
+[20-Jul-2022 10:24:27 Asia/Jakarta] PHP Warning:  Undefined array key "jam_selesai" in D:\nial_app\web1\makanAPI.php on line 18
+[20-Jul-2022 10:32:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "." in D:\nial_app\web1\index.php on line 276
+[20-Jul-2022 11:22:24 Asia/Jakarta] PHP Warning:  Undefined array key "kode_dokter" in D:\nial_app\web1\index.php on line 275
+[20-Jul-2022 11:26:57 Asia/Jakarta] PHP Warning:  foreach() argument must be of type array|object, null given in D:\nial_app\web1\index.php on line 259
