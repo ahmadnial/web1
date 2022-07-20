@@ -1,5 +1,5 @@
 <?php
-$Server      = 'INDOMIEGORENG';
+$Server      = '192.168.10.1';
 //$Database = array("Database"=>"HOSPITAL");
 //$username = 'sa';
 //$password = 'b35mart1c5';
