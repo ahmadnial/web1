@@ -17,42 +17,44 @@
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="serv">
                                         <span class="icon-service"><img src="images/unggulan/healthcare.png" alt="#" /></span>
-                                        <h4>PREMIUM FACILITIES</h4>
-                                        <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                        <h4>UNGGULANNYA APA</h4>
+                                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor illum quos molestias, neque ratione ipsum illo, ullam, autem impedit soluta sed. Odit, incidunt. Rerum, ratione doloremque ex quibusdam dolorem suscipit?</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="serv">
                                         <span class="icon-service"><img src="images/unggulan/microscope.png" alt="#" /></span>
-                                        <h4>LARGE LABORATORY</h4>
+                                        <h4>UNGGULANNYA APA</h4>
+                                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor illum quos molestias, neque ratione ipsum illo, ullam, autem impedit soluta sed. Odit, incidunt. Rerum, ratione doloremque ex quibusdam dolorem suscipit?</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                                    <div class="serv">
+                                        <span class="icon-service"><img src="images/unggulan/medicine.png" alt="#" /></span>
+                                        <h4>UNGGULANNYA APA</h4>
+                                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor illum quos molestias, neque ratione ipsum illo, ullam, autem impedit soluta sed. Odit, incidunt. Rerum, ratione doloremque ex quibusdam dolorem suscipit?</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                                    <div class="serv">
+                                        <span class="icon-service"><img src="images/unggulan/hospital-bed.png" alt="#" /></span>
+                                        <h4>UNGGULANNYA APA</h4>
+                                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor illum quos molestias, neque ratione ipsum illo, ullam, autem impedit soluta sed. Odit, incidunt. Rerum, ratione doloremque ex quibusdam dolorem suscipit?</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                                    <div class="serv">
+                                        <span class="icon-service"><img src="images/unggulan/ventilator.png" alt="#" /></span>
+                                        <h4>UNGGULANNYA APA</h4>
+                                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor illum quos molestias, neque ratione ipsum illo, ullam, autem impedit soluta sed. Odit, incidunt. Rerum, ratione doloremque ex quibusdam dolorem suscipit?</p>
                                         <p>Lorem Ipsum is simply dummy text of the printing.</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="serv">
-                                        <span class="icon-service"><img src="images/unggulan/healthcare.png" alt="#" /></span>
-                                        <h4>DETAILED SPECIALIST</h4>
-                                        <p>Lorem Ipsum is simply dummy text of the printing.</p>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                                    <div class="serv">
-                                        <span class="icon-service"><img src="images/unggulan/service-icon4.png" alt="#" /></span>
-                                        <h4>CHILDREN CARE CENTER</h4>
-                                        <p>Lorem Ipsum is simply dummy text of the printing.</p>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                                    <div class="serv">
-                                        <span class="icon-service"><img src="images/unggulan/service-icon5.png" alt="#" /></span>
-                                        <h4>FINE INFRASTRUCTURE</h4>
-                                        <p>Lorem Ipsum is simply dummy text of the printing.</p>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                                    <div class="serv">
-                                        <span class="icon-service"><img src="images/unggulan/service-icon6.png" alt="#" /></span>
-                                        <h4>ANYTIME BLOOD BANK</h4>
+                                        <span class="icon-service"><img src="images/unggulan/radiation.png" alt="#" /></span>
+                                        <h4>UNGGULANNYA APA</h4>
+                                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor illum quos molestias, neque ratione ipsum illo, ullam, autem impedit soluta sed. Odit, incidunt. Rerum, ratione doloremque ex quibusdam dolorem suscipit?</p>
                                         <p>Lorem Ipsum is simply dummy text of the printing.</p>
                                     </div>
                                 </div>
